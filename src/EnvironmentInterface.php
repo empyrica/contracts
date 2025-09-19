@@ -2,7 +2,7 @@
 
 namespace Empiriq\Contracts;
 
-interface EnvironmentInterface
+interface EnvironmentInterface //todo RunableInterface
 {
     public function run();
 }
